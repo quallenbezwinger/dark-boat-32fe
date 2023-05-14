@@ -1,0 +1,8 @@
+name = "dark-boat-32fe"
+main = "src/index.js"
+compatibility_date = "2023-05-14"
+usage_model = "bundled"
+env = { }
+
+[triggers]
+crons = [ ]
